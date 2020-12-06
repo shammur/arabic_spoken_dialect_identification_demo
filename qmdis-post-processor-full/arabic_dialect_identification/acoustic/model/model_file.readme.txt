@@ -1,0 +1,1 @@
+Copy the models from ~/models/. folder

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../dialectid-website/.idea/dialectid-website.iml" filepath="$PROJECT_DIR$/../dialectid-website/.idea/dialectid-website.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/qmdis-post-processor-full.iml" filepath="$PROJECT_DIR$/.idea/qmdis-post-processor-full.iml" />
+    </modules>
+  </component>
+</project>
