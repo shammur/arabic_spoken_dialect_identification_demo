@@ -13,7 +13,7 @@ Acoustic models are located in : arabic_spoken_dialect_identification_demo/diale
 
 
 
-Dir:
+**Directories**
 
 dialectid-website/ -- includes the demo interface in https://dialectid.qcri.org/
 
@@ -43,7 +43,7 @@ demo link (YT): https://www.youtube.com/watch?v=IN2binq_Ei4&t=229s
 
 git repo for farspeech2: https://github.com/KazBrekker1/FarSpeech.git
 
-demo for farspeech2:
+demo for farspeech2: https://youtu.be/7YI5Ebzwoig
 
 
 
