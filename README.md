@@ -35,7 +35,7 @@ run workers:
 qmdis-worker.sh
 ``
 
-#Related Links
+**Related Links**
 
 demo: https://dialectid.qcri.org/
 
